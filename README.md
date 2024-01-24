@@ -1,17 +1,6 @@
-# MERN Task Manager
+ MERN Task Manager
 
-
-### User-side features
-
-- Signup
-- Login
-- Logout
-- Add tasks
-- View tasks
-- Update tasks
-- Delete tasks
-
-## npm scripts
+npm scripts
 
 At root:
 

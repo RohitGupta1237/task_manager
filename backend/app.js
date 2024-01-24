@@ -12,6 +12,7 @@ app.use(express.json());
 app.use(cors());
 
 const mongoUrl = process.env.MONGODB_URL;
+console.log(mongoUrl)
 mongoose.connect(mongoUrl, err => {
   if (err) throw err;
   console.log("Mongodb connected...");
